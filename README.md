@@ -2,4 +2,6 @@ Nama    : Savero Arkabuana
 
 NPM     : 2106635985
 
-Kelas   : A"# My-First-Repo" 
+Kelas   : A
+
+Hobi    : Tennis meja
