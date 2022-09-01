@@ -4,4 +4,4 @@ NPM     : 2106635985
 
 Kelas   : A
 
-Hobi    : Tennis meja
+Hobi    : Tennis meja meji
